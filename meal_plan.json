@@ -1,13 +1,17 @@
 [{
 		"day": "Monday",
-		"breakfast": "Cereal",
-		"lunch": "Nuggets, Fruit",
-		"dinner": "House Pork, mashed potatoes, my bread, green beans"
+		"meals": {
+			"breakfast": "Cereal",
+			"lunch": "Nuggets, Fruit",
+			"dinner": "House Pork, mashed potatoes, my bread, green beans"
+		}
 	},
 	{
 		"day": "Tuesday",
-		"breakfast": "Omlets & Toast",
-		"lunch": "Lunchables (Have ready before Katie gets here",
-		"dinner": "Olive Garden"
+		"meals": {
+			"breakfast": "Omlets & Toast",
+			"lunch": "Lunchables (Have ready before Katie gets here",
+			"dinner": "Olive Garden"
+		}
 	}
 ]
